@@ -11,12 +11,12 @@
 
 <br> <br> 
 
-# Credits 🙌
+# Credit 🙌
 
-## Ashraful Alam
-- ***Studying B.Sc. in Computer Science and Engineering***
-- ***Institution: International Islamic University Chittagong (IIUC)***
-- ***Time: July, 2023 - Present***
+## Developer : Ashraful Alam
+***- Studying B.Sc. in Computer Science and Engineering***  
+***- Institution: International Islamic University Chittagong (IIUC)***  
+***- Time : August, 2023 - Present***
 
 <br>
 
